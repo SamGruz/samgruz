@@ -11,6 +11,8 @@
 ![Kaspresso](https://img.shields.io/badge/-Kaspresso-3CB371?style=flat&logo=Kaspresso&logoColor=success)
 ![Marathon](https://img.shields.io/badge/-Marathon-1E90FF?style=flat&logo=Marathon&logoColor=success)
 ![Allure](https://img.shields.io/badge/-Allure_report-00998a?style=flat&logo=allure&logoColor=blue)  
+![Docker](https://img.shields.io/badge/-Docker-00998a?style=flat&logo=Docker&logoColor=blue)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)  
@@ -21,6 +23,7 @@
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=Kibana)     
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 ![IOS](https://img.shields.io/badge/-IOS-333333?style=flat)
+![IOS](https://img.shields.io/badge/-PWA-5A0FC8?style=flat)
 
 ### GitHub Analytics
 <p align="center">
