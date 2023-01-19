@@ -17,7 +17,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Charles](https://img.shields.io/badge/-Charles-99003d?style=flat&logo=Charles)
-![Postman](https://img.shields.io/badge/-Postman-205fbd?style=flat&logo=postman)    
+![Postman](https://img.shields.io/badge/-Postman-205fbd?style=flat&logo=postman)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=Kibana)     
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 ![IOS](https://img.shields.io/badge/-IOS-333333?style=flat)
 
