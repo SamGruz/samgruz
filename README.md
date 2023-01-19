@@ -8,6 +8,7 @@
 ![JUnit5](https://img.shields.io/badge/-Junit5-333333?style=flat&logo=junit5)
 ![Selenide](https://img.shields.io/badge/-Selenide-333333?style=flat&logo=Selenium&logoColor=blue)
 ![Appium](https://img.shields.io/badge/-Appium-730099?style=flat&logo=Appium&logoColor=blue)
+![Kaspresso](https://img.shields.io/badge/-Kaspresso-730099?style=flat&logo=Kaspresso&logoColor=green)
 ![Allure](https://img.shields.io/badge/-Allure_report-00998a?style=flat&logo=allure&logoColor=blue)  
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
